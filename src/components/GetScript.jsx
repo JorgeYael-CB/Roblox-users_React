@@ -28,7 +28,7 @@ export const GetScript = () => {
                     <div className="mx-auto max-w-lg">
                         <p className="mb-5">Download it below 👇</p>
                         <a
-                            href="../../public/DevComplete_Studios-Script-DBU.txt"
+                            href="/DevComplete_Studios-Script-DBU.txt"
                             download
                             className="border border-gray-400 rounded-lg p-2 hover:cursor-pointer font-medium uppercase"
                         >
