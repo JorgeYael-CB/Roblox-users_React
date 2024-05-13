@@ -97,7 +97,7 @@ export const GetKeyApp = ( {objUser = {}} ) => {
                         Unlock Key
                         <img
                             className="w-8 h-8"
-                            src="../../public/candado.png"
+                            src="/candado.png"
                             alt="Candado Image"
                         />
                 </button>

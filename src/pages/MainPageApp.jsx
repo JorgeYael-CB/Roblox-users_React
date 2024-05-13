@@ -30,7 +30,7 @@ export const MainPageApp = () => {
                 ?
                     <GetKeyApp objUser={user}/>
                 :
-                    <AlertApp error={true} message={'Para obtener una llave debes sacar una URL desde el script.'}/>
+                    <AlertApp error={true} message={'If you want to get a key you must get a link from the script menu.'}/>
             )}
 
             {/* Mostramos un menú para darle el script al usuario */}
